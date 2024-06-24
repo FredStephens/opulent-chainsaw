@@ -1,9 +1,3 @@
-bigger
-try
-tweek
-geek
-flop
-get outta there
     {
       "name"        : "worker",
       "script"      : "./index.js",
@@ -17,3 +11,5 @@ get outta there
         "interval"    : 5
       }
     }
+getting there
+log_date_format
