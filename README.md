@@ -1,3 +1,4 @@
+sexual intellectual
 
 # Haikus for Codespaces
 
